@@ -3,6 +3,7 @@ this thing clicks smoothing and export to txt for you in jasco's spectra manager
 
 to use:
 use pip to install: pyqt5, pynput, clipboard, and maybe win32gui if it doesnt exist already
+
 for jasco computers that dont have internet access (like the one in my department) you can use pyinstaller like 
 pyinstaller --onefile pythonScriptName.py
 but since I cant program and have to use qtdesigner, make sure to copy the basic.ui file with the generated exe to make the whole thign work.
