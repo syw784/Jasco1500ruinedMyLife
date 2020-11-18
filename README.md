@@ -11,6 +11,7 @@ pyinstaller --onefile pythonScriptName.py
 but since I cant program and have to use qtdesigner, make sure to copy the basic.ui file with the generated exe to make the whole thign work.
 
 program looks like:
+
 ![Chungus](https://github.com/syw784/Jasco1500ruinedMyLife/raw/main/kkk.PNG)
 
 to use:
